@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/nicoflix-typescript/static/js/main.88ee1aed.chunk.js",
-    "main.js.map": "/nicoflix-typescript/static/js/main.88ee1aed.chunk.js.map",
+    "main.js": "/nicoflix-typescript/static/js/main.e6a4cd3c.chunk.js",
+    "main.js.map": "/nicoflix-typescript/static/js/main.e6a4cd3c.chunk.js.map",
     "runtime-main.js": "/nicoflix-typescript/static/js/runtime-main.aae82354.js",
     "runtime-main.js.map": "/nicoflix-typescript/static/js/runtime-main.aae82354.js.map",
-    "static/js/2.073b188b.chunk.js": "/nicoflix-typescript/static/js/2.073b188b.chunk.js",
-    "static/js/2.073b188b.chunk.js.map": "/nicoflix-typescript/static/js/2.073b188b.chunk.js.map",
+    "static/js/2.1097aacb.chunk.js": "/nicoflix-typescript/static/js/2.1097aacb.chunk.js",
+    "static/js/2.1097aacb.chunk.js.map": "/nicoflix-typescript/static/js/2.1097aacb.chunk.js.map",
     "index.html": "/nicoflix-typescript/index.html",
-    "static/js/2.073b188b.chunk.js.LICENSE.txt": "/nicoflix-typescript/static/js/2.073b188b.chunk.js.LICENSE.txt",
+    "static/js/2.1097aacb.chunk.js.LICENSE.txt": "/nicoflix-typescript/static/js/2.1097aacb.chunk.js.LICENSE.txt",
     "static/media/no-image-person.png": "/nicoflix-typescript/static/media/no-image-person.beea66c9.png",
     "static/media/no-image.jpg": "/nicoflix-typescript/static/media/no-image.6b8c8de0.jpg",
     "static/media/texture.jpg": "/nicoflix-typescript/static/media/texture.5fd81b0e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aae82354.js",
-    "static/js/2.073b188b.chunk.js",
-    "static/js/main.88ee1aed.chunk.js"
+    "static/js/2.1097aacb.chunk.js",
+    "static/js/main.e6a4cd3c.chunk.js"
   ]
 }
