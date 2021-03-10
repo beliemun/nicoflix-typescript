@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nicoflix-typescript/static/js/main.d317725d.chunk.js",
-    "main.js.map": "/nicoflix-typescript/static/js/main.d317725d.chunk.js.map",
+    "main.js": "/nicoflix-typescript/static/js/main.d7704edb.chunk.js",
+    "main.js.map": "/nicoflix-typescript/static/js/main.d7704edb.chunk.js.map",
     "runtime-main.js": "/nicoflix-typescript/static/js/runtime-main.aae82354.js",
     "runtime-main.js.map": "/nicoflix-typescript/static/js/runtime-main.aae82354.js.map",
     "static/js/2.073b188b.chunk.js": "/nicoflix-typescript/static/js/2.073b188b.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.aae82354.js",
     "static/js/2.073b188b.chunk.js",
-    "static/js/main.d317725d.chunk.js"
+    "static/js/main.d7704edb.chunk.js"
   ]
 }
